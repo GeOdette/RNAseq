@@ -1,0 +1,13 @@
+{
+	"n_targets": 207249,
+	"n_bootstraps": 0,
+	"n_processed": 5323802,
+	"n_pseudoaligned": 2561684,
+	"n_unique": 692028,
+	"p_pseudoaligned": 48.1,
+	"p_unique": 13.0,
+	"kallisto_version": "0.50.1",
+	"index_version": 13,
+	"start_time": "Fri Dec 15 21:22:23 2023",
+	"call": "kallisto quant -i /home/odette/DIY/Homo_sapiens.GRCh38.cdna.all.index -o /home/odette/DIY/results/mapping/SRR8668759 -t 4 --single -l 250 -s 30 /home/odette/DIY/data/SRR8668759.fastq.gz"
+}
